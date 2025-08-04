@@ -1,2 +1,2 @@
 # Amazon-Clone
-Amazon Clone Project..
+Amazon Clone With only HTML and CSS..
